@@ -1,0 +1,34 @@
+h1
+{
+  text-align:center;
+}
+#one
+{
+   margin-left: 550px;
+}
+#two
+{
+   margin-left: 570px;
+   margin-right: 300px;
+   border:2px;
+   border-color: white;
+   border-style: solid;
+}
+#three
+{
+   margin-left: 570px;
+   margin-right: 300px;
+
+   border:2px;
+   border-color: white;
+   border-style: solid;
+}
+
+#p1
+{
+   text-align: center;
+}
+#p2
+{
+  text-align: center;
+}
