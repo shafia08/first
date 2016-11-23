@@ -4,16 +4,20 @@ h1
 }
 h2
 {
-  color: red;
-   text-align:center;
+  //text-align:center;
+  margin-left:550px;
  }
+body
+{
+  background-color: grey;
+}
 #one
 {
    margin-left: 550px;
 }
 #two
 {
-   margin-left: 570px;
+   margin-left: 550px;
    margin-right: 300px;
    border:2px;
    border-color: white;
@@ -21,7 +25,7 @@ h2
 }
 #three
 {
-   margin-left: 570px;
+   margin-left: 550px;
    margin-right: 300px;
 
    border:2px;

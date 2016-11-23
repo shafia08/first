@@ -1,0 +1,51 @@
+body
+{
+background-color: pink;
+}
+.main
+{
+  height: 30px;
+}
+
+.left
+{
+  float: left;
+}
+
+.right
+{
+  float: right;
+}
+.list1 li
+{
+  padding-right:40;
+  font-size: 20;
+}
+.list1 a
+{
+  text-decoration: none;
+}
+.g_8 li
+{
+  display: inline;
+}
+#p1
+{
+  background-color: white;
+  border-color: black;
+}
+#p2
+{
+  background-color: red;
+}
+#p3
+{
+  background-color: white;
+}
+
+
+footer
+{
+  text-align:right;
+
+}
