@@ -59,9 +59,11 @@ background-color: pink;
 
 footer
 {
-  text-align:right;
+  align-items: baseline;
+  background-color: grey;
+
 }
-footer img
+.i
 {
   cursor: pointer;
 }
