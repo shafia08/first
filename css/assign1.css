@@ -1,3 +1,16 @@
+header
+{
+  position: fixed;
+  background-color:pink;
+
+  margin:-10px;
+  margin-left:auto;
+
+#g_4
+{
+  font-weight: bold;
+}
+}
 body
 {
 background-color: pink;
@@ -47,5 +60,8 @@ background-color: pink;
 footer
 {
   text-align:right;
-
+}
+footer img
+{
+  cursor: pointer;
 }
