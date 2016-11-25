@@ -5,7 +5,7 @@ header
 
   margin:-10px;
   margin-left:auto;
-
+}
 #g_4
 {
   font-weight: bold;
@@ -54,14 +54,6 @@ background-color: pink;
 #p3
 {
   background-color: white;
-}
-
-
-footer
-{
-  align-items: baseline;
-  background-color: grey;
-
 }
 .i
 {
